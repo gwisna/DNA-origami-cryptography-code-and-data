@@ -1,1 +1,1 @@
-This directory contains the CADNANO JSON file and csv file for Tunnel DNA origami.
+This directory contains the CADNANO JSON file and csv file for Tunnel DNA origami. The CADNANO is modified from publication in Jungmann, R., Avendaño, M., Woehrstein, J. et al. Multiplexed 3D cellular super-resolution imaging with DNA-PAINT and Exchange-PAINT. Nat Methods 11, 313–318 (2014). https://doi.org/10.1038/nmeth.2835
