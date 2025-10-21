@@ -1,1 +1,1 @@
-This directory contains pdb, python file having biotin and strand labeling which can be opened by ChimeraX, and the csv file of the strand sequence. We generated the structure and sequence using DAEDELUS software : https://github.com/lcbb/pyDAEDALUS
+This directory contains pdb, python file having biotin and strand labeling which can be opened by ChimeraX, and the csv file of the strand sequence. We generated the structure and sequence using DAEDALUS software : https://github.com/lcbb/pyDAEDALUS
