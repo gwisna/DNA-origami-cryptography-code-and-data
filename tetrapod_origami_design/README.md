@@ -1,1 +1,1 @@
-This directory contains the tetrapod DNA origami monomer CADNANO and csv file which has the sequence of the DNA.
+This directory contains the tetrapod DNA origami monomer CADNANO and csv file which has the sequence of the DNA. The design is modified from publication of Martynenko, I.V., Erber, E., Ruider, V. et al. Site-directed placement of three-dimensional DNA origami. Nat. Nanotechnol. 18, 1456–1462 (2023). https://doi.org/10.1038/s41565-023-01487-z
