@@ -1,1 +1,1 @@
-This directory contains the CADNANO files of RRO DNA origami and the csv file for the DNA sequences.
+This directory contains the CADNANO files of RRO DNA origami and the csv file for the DNA sequences. The CADNANO files are modified from publication in Dai, M., Jungmann, R. & Yin, P. Optical imaging of individual biomolecules in densely packed clusters. Nature Nanotech 11, 798–807 (2016). https://doi.org/10.1038/nnano.2016.95
